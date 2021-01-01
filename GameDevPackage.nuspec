@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>GameDevPackage</id>
+    <version>1.0.38</version>
+    <authors>Jonas</authors>
+    <owners>Jonas</owners>
+    <description>Boxstarter package for game development and entertainment</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
